@@ -1454,7 +1454,7 @@
         <javamail.version>1.4</javamail.version>
         <wss4j.version>1.5.11.wso2v11</wss4j.version>
         <com.google.code.gson.version>2.4</com.google.code.gson.version>
-        <wsdl4j.wso2.version>1.6.2.wso2v4</wsdl4j.wso2.version>
+        <wsdl4j.wso2.version>1.6.2.wso2v2</wsdl4j.wso2.version>
         <jetty.version>6.1.5</jetty.version>
         <xml-apis.version>1.4.01</xml-apis.version>
         <jaxen.version>1.1.1</jaxen.version>
@@ -1482,7 +1482,7 @@
         <imp.pkg.version.abdera>[1.0.0.wso2v2, 2)</imp.pkg.version.abdera>
 
         <!--Apache Geronimo-->
-        <version.geronimo.specs.geronimo-jpa_2.0_spec>1.1.1</version.geronimo.specs.geronimo-jpa_2.0_spec>
+        <version.geronimo.specs.geronimo-jpa_2.0_spec>1.1</version.geronimo.specs.geronimo-jpa_2.0_spec>
 
         <!--OpenJPA -->
         <openjpa.version>2.3.0</openjpa.version>
