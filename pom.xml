@@ -1417,7 +1417,7 @@
         <axis2.wso2.version>1.6.1.wso2v15</axis2.wso2.version>
         <axis2.osgi.version>1.6.1.wso2v15</axis2.osgi.version>
         <orbit.version.axis2>1.6.1.wso2v15</orbit.version.axis2>
-        <axis2-transports.version>1.1.0-wso2v15</axis2-transports.version>
+        <axis2-transports.version>1.1.0-wso2v13</axis2-transports.version>
         <axis2.osgi.version.range>[1.6.1.wso2v15, 1.7.0)</axis2.osgi.version.range>
         <orbit.version.wsdl4j>1.6.2.wso2v4</orbit.version.wsdl4j>
         <orbit.version.neethi>2.0.4.wso2v4</orbit.version.neethi>
